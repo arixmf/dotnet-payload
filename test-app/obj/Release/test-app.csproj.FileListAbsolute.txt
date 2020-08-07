@@ -1,0 +1,6 @@
+C:\Fortify\FOD\Fortify.Zeus.IntegrationTests\testassets\net-462-test-app\test-app\test-app\bin\Release\test-app.exe.config
+C:\Fortify\FOD\Fortify.Zeus.IntegrationTests\testassets\net-462-test-app\test-app\test-app\bin\Release\test-app.exe
+C:\Fortify\FOD\Fortify.Zeus.IntegrationTests\testassets\net-462-test-app\test-app\test-app\bin\Release\test-app.pdb
+C:\Fortify\FOD\Fortify.Zeus.IntegrationTests\testassets\net-462-test-app\test-app\test-app\obj\Release\test-app.csproj.CoreCompileInputs.cache
+C:\Fortify\FOD\Fortify.Zeus.IntegrationTests\testassets\net-462-test-app\test-app\test-app\obj\Release\test-app.exe
+C:\Fortify\FOD\Fortify.Zeus.IntegrationTests\testassets\net-462-test-app\test-app\test-app\obj\Release\test-app.pdb
